@@ -1,6 +1,8 @@
 # Creating-an-AWS-Simple-Notification-Service-SNS
 AWS SNS is a pub/sub messaging service that allows publishers to send messages to multiple subscribers (email, SMS, Lambda, SQS, etc.)
 
+![Screenshot 2025-02-12 053841](https://github.com/user-attachments/assets/597efe07-a7b4-4cf8-8e33-113f57da21de)
+
 Step 1: In SQS,Create an Queue and name it as MyQueue
 
 ![Screenshot 2025-02-11 224232](https://github.com/user-attachments/assets/88951ccd-b20f-4e01-b8ae-74bdd290eba6)
